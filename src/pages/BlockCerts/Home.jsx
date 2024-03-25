@@ -2,7 +2,7 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import { Img, Heading, Text, Button } from "../../components";
 
-export default function WwwblockcertsorgbyhtmltodesignFREEversion25ZeroPage() {
+export default function BlockCerts() {
   return (
     <>
       <Helmet>
